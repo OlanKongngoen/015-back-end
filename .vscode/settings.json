@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "itdev.cmtc.ac.th",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Postgre",
+            "database": "db_67319010015",
+            "password": "p@sswd@2024",
+            "username": "root"
+        }
+    ]
+}
